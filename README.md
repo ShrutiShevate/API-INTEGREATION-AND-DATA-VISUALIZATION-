@@ -1,5 +1,7 @@
 # API-INTEGREATION-AND-DATA-VISUALIZATION-
+
 Developer Information
+
 Name: Shruti Shevate
 Company: CODTECH IT SOLUTIONS
 ID: CT04DL170
@@ -64,6 +66,8 @@ Contact
 For any questions or feedback, feel free to reach out to:
 
 Shruti Shevate
+
 Company: CODTECH IT SOLUTIONS
+
 Email: shevateshruti7@gmail.com
 

@@ -62,7 +62,8 @@ o	Line plots are created for temperature and humidity trends using Matplotlib an
 ________________________________________
 Contact
 For any questions or feedback, feel free to reach out to:
+
 Shruti Shevate
 Company: CODTECH IT SOLUTIONS
-Email: shevateshruti7@gmail.com@gmail.com
+Email: shevateshruti7@gmail.com
 
